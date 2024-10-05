@@ -1,0 +1,28 @@
+.card-con {
+  border: 1px solid white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  font-family: 'Roboto';
+  padding: 10px;
+  margin: 10px;
+  width: 350px;
+  height: 150px;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.team-logo-image {
+  width: 70px;
+  margin-right: 10px;
+}
+
+.team-name {
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+}

@@ -1,0 +1,36 @@
+.match-card-con {
+  width: 30%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1e293b;
+  padding: 10px;
+  margin: 15px;
+}
+
+.match-card-competing-team-logo-img {
+  width: 150px;
+}
+
+.match-card-competing-name {
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  font-size: 40px;
+}
+
+.match-card-result {
+  color: white;
+}
+
+.green {
+  color: green;
+  font-weight: 700;
+}
+
+.red {
+  color: red;
+  font-weight: 700;
+}

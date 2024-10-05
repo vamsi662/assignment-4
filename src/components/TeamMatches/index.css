@@ -1,0 +1,31 @@
+.team-matches-con {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #d91c1f;
+  font-family: 'Bree Serif';
+}
+
+.profile-con {
+  width: 90%;
+  max-width: 1000px;
+  padding: 15px 0px;
+}
+
+.banner-image {
+  width: 990px;
+}
+
+.latest-matches-heading {
+  color: white;
+  font-weight: 700;
+  margin: 0;
+}
+
+.matches-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
